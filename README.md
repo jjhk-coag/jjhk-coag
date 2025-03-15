@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-  
-- 🌱 I’m currently learning ...
-- 
+I'm Jakub Karczewski and I currently study IT (gamedev) at PJATK university in Gdańsk.
+
+-  I’m currently working on my group engineering project (AI use in games / game that changes difficulty level depending on player emotions).
+-  I’m currently learning Japanese and expanding my programming skills.
+
 <!--
 **KubeNaxe/KubeNaxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
