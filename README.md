@@ -2,7 +2,7 @@
 
 I am Jakub Karczewski and I study IT (gamedev) at PJATK university in Gdańsk.
 
--  I am currently working on my group engineering project (AI use in games / game that changes difficulty level depending on player's emotions).
+-  I am currently working on my group engineering project
 -  I am learning Japanese and expanding my programming skills.
 -  I am working as a (matura exam) tutor in: Math, Physics, Computer Science and English
 
