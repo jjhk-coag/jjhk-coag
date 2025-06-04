@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Jakub Karczewski and I study IT (gamedev) at PJATK university in Gdańsk.
+My name is Jakub Karczewski and I study IT (gamedev) at PJATK university in Gdańsk.
 
 -  I am currently working on my group engineering project
 -  I am learning Japanese and expanding my programming skills.
