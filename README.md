@@ -2,9 +2,7 @@
 
 My name is Jakub Karczewski and I study IT (gamedev) at PJATK university in Gdańsk.
 
--  I am currently working on my group engineering project
--  I am learning Japanese and expanding my programming skills.
--  I am working as a (matura exam) tutor in: Math, Physics, Computer Science and English
+-  I'm currently improving my Japanese and expanding my programming skills.
 
 <!--
 **KubeNaxe/KubeNaxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
